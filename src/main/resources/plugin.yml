@@ -1,0 +1,7 @@
+name: FishDisabledCmds
+version: 1.0
+main: pl.panryba.mc.disabledcmds.Plugin
+permissions:
+  disabledcmds.suppress:
+    description: "Pozwala korzystac z wylaczonych polecen"
+    default: op
